@@ -114,4 +114,4 @@
 
 
 #KONTRIBUTOR
-* Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* Masukkan Nama Kontributor Disini dengan format [Muhammad_Akmal Farouqi](https://www.linkedin.com/in/muhammad-akmal-farouqi-132253199/)
